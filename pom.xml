@@ -60,7 +60,7 @@
 				</executions>
 			</plugin>
 			<plugin> 
-				<groupId>org.apache.maven.plugins</groupId> 
+				<groupId>https://repo1.maven.org/maven2/</groupId> 
 				<artifactId>maven-compiler-plugin</artifactId> 
 				<version>3.6</version> 
 			</plugin>
